@@ -10,6 +10,9 @@ that can actually do transparency porperly without you going insane?
 Have a minute? Getting annoyed by these questions?  Please make a
 better image and help us? :D
 
+![](composite_800.png)
+(Downscaled to the same size as the current image)
+
 ## Source files
 
 The following two files were used:

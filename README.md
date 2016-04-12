@@ -13,6 +13,9 @@ better image and help us? :D
 ![](composite_800.png)
 (Downscaled to the same size as the current image)
 
+![](telegram-purple_800.png)
+(Downscaled to the same size as the current image; credits go to Eion Robb)
+
 ## Source files
 
 The following two files were used:

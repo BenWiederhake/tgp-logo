@@ -19,5 +19,8 @@ The following two files were used:
 - Pidgin: [PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pidgin.svg/2000px-Pidgin.svg.png), [License (GPL)](https://commons.wikimedia.org/wiki/File:Pidgin.svg)
 - Telegram: [PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2000px-Telegram_logo.svg.png), [License (Public Domain, but Trademarked)](https://commons.wikimedia.org/wiki/File:Telegram_logo.svg)
 
-I combined them using [mtpaint], a really crappy tool that works quite
-well, but is just unwieldy.  Have fun and `mtpaint layers.txt`
+I combined them using [mtpaint](http://mtpaint.sourceforge.net/), a
+really crappy tool that works quite well, but is just unwieldy.
+
+Have fun and `mtpaint layers.txt` to your hearts content!  Pull
+requests welcome.
